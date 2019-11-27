@@ -1,2 +1,2 @@
-# EventHub-v1.0-
-Event Notification Management mini social media application
+# SportHub-v1.0-
+Sport Notification Management mini social media application
